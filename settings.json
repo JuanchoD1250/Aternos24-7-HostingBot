@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Tungsahur67(AFK)",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "niffsuperfaciles.aternos.me",
+    "port": 36273,
     "version": "",
     "try-creative": false
   },
